@@ -175,7 +175,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libqomx_core \
-    libmmcamera_interface \
     libmmjpeg_interface \
     camera.hammerhead \
     mm-jpeg-interface-test \
