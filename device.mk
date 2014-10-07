@@ -120,11 +120,6 @@ PRODUCT_PACKAGES += \
     fibmap.f2fs \
     f2fstat
 
-# Live Wallpapers
-PRODUCT_PACKAGES += \
-    LiveWallpapersPicker \
-    librs_jni
-
 PRODUCT_PACKAGES += \
     gralloc.msm8974 \
     libgenlock \
